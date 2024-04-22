@@ -1,5 +1,5 @@
 {
-    "name": "vagh\/laravel-allinpay",
+    "name": "imnpc\/laravel-allinpay",
     "description": "An Allinpay(Tonglian) PHP SDK For Laravel",
     "license": "MIT",
     "authors": [
