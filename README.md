@@ -8,7 +8,7 @@
 ## Installing
 
 ```shell
-$ composer require vagh/laravel-allinpay -vvv
+$ composer require imnpc/laravel-allinpay -vvv
 ```
 
 ## Usage
