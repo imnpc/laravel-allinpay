@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "guzzlehttp/guzzle": "^6.3",
+        "guzzlehttp/guzzle": "^7",
         "mockery/mockery": "^1.2",
         "phpunit/phpunit": "~6"
     },
